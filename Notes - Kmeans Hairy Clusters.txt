@@ -1,0 +1,16 @@
+Notes for KMeans - Hairy Roots Clustering
+
+Kmeans = 2:
+Group 0: thinner roots and fewer roots
+Group 1: appears to have hairier and thicker roots
+
+Kmeans = 3
+Group 0: average number of roots, mostly to one side of the image
+Group 1: not so dark, not many roots, thinner roots
+Group 2: darker, roots grown well on both sides of the image
+
+
+Appears that the images:
+100_a, 101_a, 102_a, 103_a, 104_a, 105_a
+
+are always in the same group. perhaps there's more similarity in them.
